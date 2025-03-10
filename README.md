@@ -1,6 +1,6 @@
 📊 Airbnb Tableau Dashboard
 
-This Tableau dashboard provides key insights into Airbnb listings. -> [View Dashboard](https://github.com/tinajeremic/AirBnB-Data-Analysis-Tableau/blob/main/Air%20BnB%20Dashboard.png)
+This Tableau dashboard provides key insights into Airbnb listings. -> [View Dashboard](https://public.tableau.com/views/AirBnBFullProject_17416257829390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The analysis includes:
 * Average Price by Number of Bedrooms – Understand how bedroom count impacts pricing.
