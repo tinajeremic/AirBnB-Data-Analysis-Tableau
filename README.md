@@ -1,4 +1,4 @@
-# 📊 Airbnb Tableau Dashboard
+# 📊 Airbnb Price Analysis using Tableau
 
 This Tableau dashboard provides key insights into Airbnb listings. -> [View Dashboard](https://public.tableau.com/views/AirBnBFullProject_17416257829390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
