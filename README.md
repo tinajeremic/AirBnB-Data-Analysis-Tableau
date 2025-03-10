@@ -8,10 +8,15 @@ This Tableau dashboard provides key insights into Airbnb listings. -> [View Dash
 * Price by ZIP Code – Compare pricing variations across different locations.
 * Distinct Count of Bedrooms – See the distribution of listings based on bedroom count.
 
+## Dashboard Preview:
+
+![Airbnb Dashboard Preview](https://github.com/tinajeremic/AirBnB-Data-Analysis-Tableau/blob/main/Air%20BnB%20Dashboard.png)
+
 ## Conclusions & Key Findings:
-🏖️ Best time to list an Airbnb: The most profitable periods are summer months and winter holidays (December), when demand is the highest.
-💰 Price correlation with bedrooms: More bedrooms generally lead to higher prices, but location plays a significant role in determining final pricing.
-📍 Location impact: Listings in popular tourist areas tend to have higher prices compared to suburban areas.
-📊 Market trends: Understanding price fluctuations throughout the year can help hosts maximize their earnings by adjusting listing prices accordingly.
+* Best time to list an Airbnb: The most profitable periods are summer months and winter holidays (December), when demand is the highest.
+* Price correlation with bedrooms: More bedrooms generally lead to higher prices, but location plays a significant role in determining final pricing.
+* Location impact: Listings in popular tourist areas tend to have higher prices compared to suburban areas.
+* Market trends: Understanding price fluctuations throughout the year can help hosts maximize their earnings by adjusting listing prices accordingly.
+
 
 This project showcases data cleaning, visualization and analytical skills using Tableau. 🚀
